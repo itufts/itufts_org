@@ -14,6 +14,8 @@ TBD
  * Free Photo: [Pixabay](https://pixabay.com)
 * Anti-spam
   * Akismet (Plugin): filter comment spam
+* User Roles and Permissions
+  * [Beginner’s Guide to WordPress User Roles and Permissions](http://www.wpbeginner.com/beginners-guide/wordpress-user-roles-and-permissions/?display=wide)
 * Growth 
   * SEO
     * XML Sitemap Generator
