@@ -14,8 +14,13 @@ TBD
  * Free Photo: [Pixabay](https://pixabay.com)
 * Anti-spam
   * Akismet (Plugin): filter comment spam
-* SEO
-  * XML Sitemap Generator
-  * Google Webmaster Tools
-  * Bing Webmaster Tools
+* Growth 
+  * SEO
+    * XML Sitemap Generator
+    * Google Webmaster Tools
+    * Bing Webmaster Tools
+    * (Baidu Zhanzhang)[zhanzhang.baidu.com]
+  * Zhihu
+  * Wiki
+  
  
