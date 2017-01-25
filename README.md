@@ -9,6 +9,7 @@ TBD
   * [How To Set Up a Host Name with DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-host-name-with-digitalocean)
    * [301 Redirects with .htaccess File] (https://wpism.com/301-redirects-wordpress/#301_Redirects_with_htaccess_File)
    * [Batch update domain](http://www.2zzt.com/jcandcj/5883.html)
+   * Set up Apache Virtual Hosts([DigitalOcean tutorial](https://www.digitalocean.com/community/tutorials/how-to-set-up-apache-virtual-hosts-on-ubuntu-16-04), [Virtual Hosts – Beginners guide](https://wp-dreams.com/articles/2015/01/virtual-hosts-beginners-guide-to-digital-ocean/))
 * UI/UX
  * Theme: [Fluida WordPress Theme](https://www.cryoutcreations.eu/wordpress-themes/fluida)
  * Free Photo: [Pixabay](https://pixabay.com)
