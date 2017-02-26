@@ -12,9 +12,10 @@ TBD
    * Set up Apache Virtual Hosts([DigitalOcean tutorial](https://www.digitalocean.com/community/tutorials/how-to-set-up-apache-virtual-hosts-on-ubuntu-16-04), [Virtual Hosts – Beginners guide](https://wp-dreams.com/articles/2015/01/virtual-hosts-beginners-guide-to-digital-ocean/))
 * UI/UX
  * Theme: [Fluida WordPress Theme](https://www.cryoutcreations.eu/wordpress-themes/fluida)
- * Free Photo: [Pixabay](https://pixabay.com)
 * Anti-spam
-  * Akismet (Plugin): filter comment spam
+  * Akismet Plugin: filter comment spam
+* Related post
+  * Related Posts, a plugin by Taxonomy, [documentation](https://keesiemeijer.wordpress.com/related-posts-by-taxonomy/)
 * User Roles and Permissions
   * [Beginner’s Guide to WordPress User Roles and Permissions](http://www.wpbeginner.com/beginners-guide/wordpress-user-roles-and-permissions/?display=wide)
 * Growth 
