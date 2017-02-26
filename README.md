@@ -12,6 +12,7 @@ TBD
    * Set up Apache Virtual Hosts([DigitalOcean tutorial](https://www.digitalocean.com/community/tutorials/how-to-set-up-apache-virtual-hosts-on-ubuntu-16-04), [Virtual Hosts – Beginners guide](https://wp-dreams.com/articles/2015/01/virtual-hosts-beginners-guide-to-digital-ocean/))
 * UI/UX
  * Theme: [Fluida WordPress Theme](https://www.cryoutcreations.eu/wordpress-themes/fluida)
+ * Child theme: [Why use a Child Theme?](https://codex.wordpress.org/Child_Themes), [Template Hierarchy](https://developer.wordpress.org/themes/basics/template-hierarchy/)
 * Anti-spam
   * Akismet Plugin: filter comment spam
 * Related post
@@ -23,7 +24,7 @@ TBD
     * XML Sitemap Generator
     * Google Webmaster Tools
     * Bing Webmaster Tools
-    * (Baidu Zhanzhang)[zhanzhang.baidu.com]
+    * [Baidu Zhanzhang](zhanzhang.baidu.com)
   * Zhihu
   * Wiki
 * Performance Tuning
