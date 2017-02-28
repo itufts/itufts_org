@@ -32,6 +32,7 @@ TBD
      * [WordPress 性能优化：为什么我的博客比你的快](http://blog.wpjam.com/article/wordpress-performance/)
   * Tools
      * [Google PageSpeed Online Tools](https://developers.google.com/speed/pagespeed/insights/)
+     * [Google Mobile-Friendly Test](https://search.google.com/search-console/mobile-friendly)
      * [Web Page Test](https://www.webpagetest.org)
      * [Yslow](http://yslow.org/)
   * CDN
