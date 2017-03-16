@@ -41,3 +41,8 @@ TBD
 * Email
   * [腾讯域名邮箱](https://exmail.qq.com/login)
  
+ 
+ ### Other useful plugins I have ever used in other projects(brr for example):
+ * [All-in-One WP Migration by ServerPilot] (https://serverpilot.io/community/articles/how-to-migrate-a-digitalocean-one-click-wordpress-installation-to-serverpilot.html)
+ * WP Broken Link Status Checker by Pau Iglesias, SeedPlugins
+ * UpdraftPlus Backup/Restore
